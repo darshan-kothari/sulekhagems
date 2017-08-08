@@ -1,0 +1,22 @@
+table
+{
+font-family:Georgia, "Times New Roman", Times, serif;
+margin:0;
+padding:0;
+color:#CCCCCC;
+font-weight:bold;
+}
+.reg_td
+{
+height:30px;
+}
+.td_show_jems
+{
+border-bottom-color:#FFFFFF;
+border-bottom-style:solid;
+border-bottom-width:thin;
+}
+.transp
+{
+background-color:#810908;
+}
